@@ -1,4 +1,4 @@
-# Identity and Main Server
+# SSO Auth Workflow Fundland | PoC Identity and Main Server
 
 This repository contains two key components: an **Identity Server** and a **Main Server**. The Identity Server handles user authentication and Single Sign-On (SSO) operations, while the Main Server interacts with the Identity Server for login, SSO status checks, and logout functionalities.
 
